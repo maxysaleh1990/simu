@@ -2,15 +2,16 @@
   "name": "Simucoin",
   "symbol": "SIMU",
   "description": "Simucoin",
-  "image": "https://raw.githubusercontent.com/maxysaleh1990/simu/refs/heads/main/asset/1-logo.png",
+  "image": "https://raw.githubusercontent.com/maxysaleh1990/simu/main/asset/1-logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/maxysaleh1990/simu/refs/heads/main/asset/1-logo.png",
+        "uri": "https://raw.githubusercontent.com/maxysaleh1990/simu/main/asset/1-logo.png",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
 }
+
