@@ -1,0 +1,16 @@
+{
+  "name": "Simucoin",
+  "symbol": "SIMU",
+  "description": "Simucoin",
+  "image": "1-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "1-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
